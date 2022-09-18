@@ -17,3 +17,14 @@
 {
     width: 300px;
 }
+
+#copy_right_footer{
+    position:fixed;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+}
+
+img:hover{
+    border-radius: 140px;
+}
